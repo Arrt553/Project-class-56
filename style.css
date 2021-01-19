@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    background-color: deepskyblue;
+    color: brown
+}
+
+h1 {
+    color: blue;
+}
+
+img {
+    border-radius: 80px;
+    border-color: blue;
+    border-width: 5px;
+    border-style: dashed;
+    padding: 10px;
+}
